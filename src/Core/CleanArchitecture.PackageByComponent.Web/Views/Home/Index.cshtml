@@ -1,0 +1,8 @@
+﻿@using CleanArchitecture.PackageByComponent.Core.Domain.Constants
+
+<div class="text-center">
+    <h1 class="display-4">@ViewBag.Title</h1>
+    <feature name="@nameof(FeatureFlags.ShowSubTitle)">
+        <p>@ViewBag.SubTitle</p>
+    </feature>
+</div>

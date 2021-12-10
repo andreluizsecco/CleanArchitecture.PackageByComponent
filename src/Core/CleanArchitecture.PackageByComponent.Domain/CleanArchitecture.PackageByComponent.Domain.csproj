@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>CleanArchitecture.PackageByComponent.Core.Domain</AssemblyName>
+    <RootNamespace>CleanArchitecture.PackageByComponent.Core.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
